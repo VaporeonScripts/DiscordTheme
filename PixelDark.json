@@ -51,7 +51,8 @@
   "background": {
     "blur": 0.0,
     "url": "https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/PixelCity/bg.gif",
-    "alpha": 1
+    "alpha": 0.5
+    "color": "#081924"
   },
   "spec": 2
 }
